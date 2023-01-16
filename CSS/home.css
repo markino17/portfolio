@@ -1,0 +1,22 @@
+nav {
+    display: flex;
+    color: red;
+    border-bottom: 1px solid black;
+    height: 30px;
+}
+#quicklinks{
+    color: blue;
+    position: absolute;
+    right:20px;
+    font-size: 20px;
+    margin-right: 10px;
+}
+#home{
+    border: 1px solid black;
+}
+#aboutme{
+    border: 1px solid black;
+}
+#portfolio{
+    border: 1px solid black;
+}
